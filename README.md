@@ -8,7 +8,7 @@ This is a portfolio app built with React.js and Tailwind CSS using Yarn package 
   ```
 2. Change to the project directory:
   ```
-  cd react-portfolio-app
+  cd React-portfolio
   ```
 3. Install dependencies:
   ```
