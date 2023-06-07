@@ -4,7 +4,7 @@ This is a portfolio app built with React.js and Tailwind CSS using Yarn package 
 ## Installation
 1. Clone the repository:
   ```bash
-   git clone https://github.com/your-username/react-portfolio-app.git
+   git clone https://github.com/Rouvie/React-portfolio
   ```
 2. Change to the project directory:
   ```
